@@ -1,0 +1,12 @@
+.btn {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  border-radius: 2px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+button:hover {
+  background-color: rgb(203, 177, 227);
+}
